@@ -1,4 +1,4 @@
-# Create Mobileapp with Phonegap via API Json Encode PHP
+# Create Mobileapp with Phonegap via API Json PHP
 
 Tech :
 - PHP
